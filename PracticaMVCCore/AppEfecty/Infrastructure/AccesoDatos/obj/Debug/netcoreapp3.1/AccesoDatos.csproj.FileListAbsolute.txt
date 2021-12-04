@@ -1,0 +1,12 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.deps.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\bin\Debug\netcoreapp3.1\AccesoDatos.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.AssemblyReference.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfoInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.AssemblyInfo.cs
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.csproj.CopyComplete
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Infrastructure\AccesoDatos\obj\Debug\netcoreapp3.1\AccesoDatos.pdb

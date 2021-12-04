@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+
+
+<div>
+    <h1>Formuario Clientes</h1>
+    <div>
+        <label> Nombres y Apellidos</label>
+        <input type="text" id="nombreApellido" />
+    </div>
+    <div>
+        <label> Tipo Documento</label>
+        <select id="tipoDocumento" ></select>
+    </div>
+    <div>
+        <label> Fecha Nacimiento</label>
+        <input type="text" id="fechaNacimiento" placeholder="dd/mm/yyyy"/>
+    </div>
+    <div>
+        <label> Valor a Ganar</label>
+        <input type="text" id="valorGanar" onkeypress="OnlyNumbers(event)" />
+    </div>
+    <div>
+        <label> Estado Civil</label>
+        <input type="radio" name="estadoCivil" value="Soltero" checked="checked">Soltero
+        <input type="radio" name="estadoCivil" value="Casado">Casado
+        <br />
+
+        
+    </div>
+    <div>
+        <br />
+        <input type="button" id="guardar" value="Guardar Información" />
+    </div>
+</div>
+
+<div>
+    @Html.ActionLink("ConsultaClientes", "ConsultaClientes",
+    new { @class = "btn btn-xs btn-primary" })
+</div>
+
+<link href="~/css/index.css" rel="stylesheet" />
+<script src="~/js/Views/Creacion.js"></script>

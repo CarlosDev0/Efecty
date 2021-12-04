@@ -1,0 +1,9 @@
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\bin\Debug\netcoreapp3.1\Dominio.deps.json
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\bin\Debug\netcoreapp3.1\Dominio.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\bin\Debug\netcoreapp3.1\Dominio.pdb
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.AssemblyReference.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfoInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.AssemblyInfo.cs
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.csproj.CoreCompileInputs.cache
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.dll
+C:\CARLOS\PERSONAL\Herramientas_Dllo_Soft\Tests\Efecty\PracticaMVCCore\AppEfecty\Core\Dominio\obj\Debug\netcoreapp3.1\Dominio.pdb
